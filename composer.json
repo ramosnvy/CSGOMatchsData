@@ -1,0 +1,13 @@
+{
+    "name": "pedroramos/estudocomposer",
+    "autoload": {
+        "psr-4": {
+            "Pedroramos\\Estudocomposer\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/dom-crawler": "^6.2",
+        "symfony/css-selector": "^6.2"
+    }
+}
